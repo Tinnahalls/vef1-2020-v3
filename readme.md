@@ -4,8 +4,6 @@
 
 Skrifa skal CSS fyrir gefið HTML í `index.html`. [Sjá fyrirmynd og virkni](fyrirmynd/).
 
-![](fyrirmynd.png)
-
 Ekki er leyfilegt að breyta HTML skjali.
 
 ### Almennt
@@ -88,7 +86,7 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 14. september 2020.
 
 Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 22. september 2020.
 
-Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem heitir ``verkefni3-<notendanafn>.zip`, t.d. `verkefni3-osk.zip`.
+Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem heitir `verkefni3-<notendanafn>.zip`, t.d. `verkefni3-osk.zip`.
 
 ## Einkunn
 
