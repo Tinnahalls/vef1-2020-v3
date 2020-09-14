@@ -56,14 +56,23 @@ Aðeins er leyfilegt að nota eftirfarandi yfirlýsingar í CSS:
 
 * `background-color`
 * `border` og `border-top` o.fl.
+* `box-sizing`
+* `clear`
 * `color`
 * `content`
 * `display`
+* `float`
 * `font-size`
 * `height`
+* Offset eigindi: `top`, `right`, `bottom` og `left`
+* `list-style`
 * `margin` og `margin-top` o.fl.
-* `max-width`
+* `max-width`, `max-height`
+* `min-width`, `min-height`
+* `overflow`
 * `padding` og `padding-top` o.fl.
+* `position`
+* `text-align`
 * `width`
 
 Leyfilegt er að nota alla selectora.
