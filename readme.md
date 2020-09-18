@@ -44,7 +44,7 @@ Fyrirsögn skal vera `96px` há og með `32px` bili fyrir ofan og neðan.
 
 Fyrirsögn sögu skal vera `48px` með `32px` bili fyrir neðan.
 
-Texti skal vera `24px` en fyrsta lína `30px` og fyrsti stafur `32px`.
+Texti skal vera `24px` en fyrsta lína `45px` og fyrsti stafur `90px`.
 
 Mynd skal vera fleytt til vinstri og hafa padding upp á `16px` til hægri og fyrir neðan.
 
